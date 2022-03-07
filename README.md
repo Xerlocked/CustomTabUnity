@@ -1,5 +1,6 @@
 # CustomTabUnity
- Unity3.14f and DOTWEEN
+ - Version: Unity3.14f
+ - Plugin: DOTWEEN
 
-##Import Plugins
-- DOTWEEN
+## Import Plugins
+    DOTWEEN: <http://dotween.demigiant.com/>
